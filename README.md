@@ -1,0 +1,2 @@
+# HelpingHands---SD-Hacks-2021
+HelpingHands is a website that record volunteer information. This website help allows people to post volunteer events happening in their area, and allows other users to see this information and sign up if they wanted to. By helping with this exchange of information, people can easily communicate and build bonds, as well as improve the communities they are in. This website can help organize events such as park cleanings, beach cleanings, tutoring, and more.
